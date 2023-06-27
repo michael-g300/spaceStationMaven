@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="App" />
+        <module name="ToolStates" />
+        <module name="Fleet" />
+        <module name="AppStateInterface" />
+        <module name="FleetLoaderInterface" />
+        <module name="RobotCommands" />
+        <module name="Tools" />
+        <module name="RobotStateInterface" />
+        <module name="ToolStateInterface" />
+        <module name="ToolInterface" />
+        <module name="AppStates" />
+        <module name="RobotInterface" />
+        <module name="Robots" />
+        <module name="FileFleetLoader" />
+        <module name="RobotStates" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

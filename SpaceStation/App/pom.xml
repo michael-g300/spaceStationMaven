@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.spaceStation</groupId>
+        <artifactId>SpaceStation</artifactId>
+        <version>1.0.0</version>
+    </parent>
+
+    <artifactId>App</artifactId>
+    <version>1.0.0</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.spaceStation.fleet</groupId>
+            <artifactId>Fleet</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.spaceStation.appStateInterface</groupId>
+            <artifactId>AppStateInterface</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.spaceStation.appStates</groupId>
+            <artifactId>AppStates</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.spaceStation.fileFleetLoader</groupId>
+            <artifactId>FileFleetLoader</artifactId>
+        </dependency>
+    </dependencies>
+
+</project>

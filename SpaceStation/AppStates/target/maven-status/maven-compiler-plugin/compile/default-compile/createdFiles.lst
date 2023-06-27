@@ -1,0 +1,4 @@
+com\spaceStation\appStates\InventoryState.class
+com\spaceStation\appStates\RobotCreationState.class
+com\spaceStation\appStates\MainMenuState.class
+com\spaceStation\appStates\RobotCommandsMenuState.class

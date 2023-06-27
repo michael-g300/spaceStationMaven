@@ -1,0 +1,4 @@
+robot1;ADF45H6K;HAL9000
+robot2;G6JFD44Y;Johnny5
+robot3;BGF54RR;Maschinenmensch
+robot4;LP09U7IG;Tachikomas

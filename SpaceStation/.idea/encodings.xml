@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/App/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/App/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AppStateInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AppStateInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AppStates/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AppStates/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FileFleetLoader/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FileFleetLoader/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fleet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fleet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FleetLoaderInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FleetLoaderInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RobotCommands/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RobotCommands/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RobotInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RobotInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RobotStateInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RobotStateInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RobotStates/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RobotStates/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Robots/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Robots/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ToolInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ToolInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ToolStateInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ToolStateInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ToolStates/Tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ToolStates/Tools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ToolStates/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ToolStates/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
